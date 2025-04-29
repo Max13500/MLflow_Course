@@ -18,7 +18,7 @@ run_name = "first_run"
 artifact_path = "rf_apples"
 
 # Import Database
-data = pd.read_csv("fake_data.csv")
+data = pd.read_csv("data/fake_data.csv")
 X = data.drop(columns=["date", "demand"])
 X = X.astype('float')
 y = data["demand"]
