@@ -1,0 +1,11 @@
+Random Forest Trials Summary:
+---------------------------
+Best Experiment Name: RandomizedSearchCV_Random_Forest
+Best Run Name: skillful-fowl-269
+
+Best Model Parameters:
+Number of Trees: 124
+Max Tree Depth: 14
+Min Samples Split: 8
+Min Samples Leaf: 3
+Best CV Score: 0.8843
